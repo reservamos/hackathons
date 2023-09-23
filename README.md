@@ -9,6 +9,7 @@
 - [Cursor](https://www.cursor.so/) - AI Text Editor(if no replit). See [video](https://drive.google.com/file/d/1TgC6khtD5jbv4o18mWQbbgZGNUdRey0C/view)
 - [Open Interpreter](https://openinterpreter.com/) - Do AI analysis of your data via chat.
 - [Content Generation with AI](https://docs.google.com/presentation/d/1Z0vZj1QvyCoyP7azjoGcLgx899NlkiNo1lI_MJMTy1A/edit#slide=id.g4dfce81f19_0_45) - Some tips on how to use AI for content Generation from mind valley conference.
+- [AI with AWS](https://drive.google.com/file/d/13XvjqxZKe7SXlqVWjRf63RL48xmfLA_e/view): Video on how to use some AI apis with AWS(AWS Translate, AWS Comprehend, AWS Polly, among others)
 
 ### Be inspired
 - [HackAIthon demos](https://twitter.com/AlexReibman/status/1659343093769056257) - See non technical track. 
