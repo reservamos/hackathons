@@ -12,7 +12,8 @@
 - [AI with AWS](https://drive.google.com/file/d/13XvjqxZKe7SXlqVWjRf63RL48xmfLA_e/view): Video on how to use some AI apis with AWS(AWS Translate, AWS Comprehend, AWS Polly, among others)
 
 ### Be inspired
-- [HackAIthon demos](https://twitter.com/AlexReibman/status/1659343093769056257) - See non technical track. 
+- [HackAIthon demos](https://twitter.com/AlexReibman/status/1659343093769056257) - See Docutok(See what a PM with no coding skills can do now with AI). 
+- [Reservamos demos](https://drive.google.com/file/d/1wT1izjeBKRD3NW93at-lLSkcbtMxXlvV/view?usp=sharing) - See the demos of our own internal hackathon.
 
 ### Learn
 - [Noexcuselist](http://noexcuselist.com/) - The best place on the web to learn anything for free
